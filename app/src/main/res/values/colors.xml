@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    //relative to night
+    <color name="colorPrimary">#00abff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorCard">#FFFFFF</color>
+    <color name="colorText">#2C2C2C</color>
+    <color name="colorLogo">#FED530</color>
+
+    <color name="fab_bg">#FF4081</color>
+    <color name="drawer_item_bg_p">#e8e8e8</color>
+    <color name="drawer_item_bg_n">#fffff9</color>
+    <color name="news_unread">#000000</color>
+    <color name="news_read">#898989</color>
+
+    <color name="comment_text">#5b5d5c</color>
+    <color name="setting_text">#5b5d5c</color>
+    <color name="comment_reply">#9ba4a3</color>
+    <color name="comment_btn">#bfbfbf</color>
+    <color name="comment_line">#dddddd</color>
+    <color name="comment_at">#5d8698</color>
+    <color name="gold_title">#3F51B5</color>
+    <color name="topic_text">#afafaf</color>
+    <color name="grey_search">#FF999999</color>
+    <color name="colorPrimaryOverlay">#00abff</color>
+    <color name="delete_text">#cccccc</color>
+    <color name="deep_grey">#e6e6e6</color>
+    <color name="dialog_background">#ffffff</color>
+    <color name="yellow">#f39c12</color>
+    <color name="search_grey_gone">#bbbbbb</color>
+    <color name="search_grey">#FF000000</color>
+    <color name="main_status_bar_blue">#279ede</color>
+    <color name="search_status_bar_white">#ffffff</color>
+    <color name="register_bac">#303c59</color>
+
+    //other
+    <color name="shallow_green">#FF36BC9B</color>
+    <color name="shallow_grey">#FF757575</color>
+    <color name="card_color">#202124</color>
+    <color name="not_network_bac">#33ffffff</color>
+    <color name="grey">#cccccc</color>
+</resources>
